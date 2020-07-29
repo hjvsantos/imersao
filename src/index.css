@@ -29,3 +29,9 @@ a {
   display: flex;
   flex-direction: column;
 }
+
+#error{
+  min-height: 100vh;  
+  display: flex;
+  flex-direction: column;
+}
