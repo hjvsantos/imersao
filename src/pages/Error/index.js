@@ -7,16 +7,16 @@ const Container = styled.ul`
   font-family: 'Special Elite', sans-serif;
   background-color: #98FB98;
   box-sizing: border-box;
-  
+  display:table;
+  margin: 0 auto;
+  padding: 0;
 `
 
 function Error(){
     return (
         <PageErrorDefault>
-            <Container >
-            
-            <img className="Error" src={error} alt="error"/>
-            
+            <Container >            
+            <img className="Error" src={error} alt="error"/>            
             </Container>
         </PageErrorDefault>
     );
