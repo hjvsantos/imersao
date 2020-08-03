@@ -1,0 +1,14 @@
+{
+    "artistas": [
+        {
+            "id": 1,
+            "nome":"Thiago Emanuel Martins",
+            "descricao": "Cantor e compositor pernambucano"
+        },
+        {
+            "id": 2,
+            "nome":"PC Silva",
+            "descricao": "Cantor e compositor pernambucano"
+        }
+    ]
+}
